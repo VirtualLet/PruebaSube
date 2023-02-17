@@ -1,0 +1,1 @@
+'C:/Program Files/Git/mingw32/bin/git-askpass.exe'
